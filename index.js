@@ -1,3 +1,28 @@
+
+
+
+
+const randomFunc = {
+    lower: getRandomLower,
+    upper: getRandomUpper,
+    number: getRandomNumber,
+    symbol: getRandomSymbol,
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // functions to generate password.
 
 function getRandomLower(){
