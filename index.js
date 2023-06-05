@@ -1,6 +1,6 @@
 //password generator
 
-  var el_down = document.getElementById("geeks");
+  var el_down = document.getElementById("code");
           
         /* Function to generate combination of password */
         function generateP() {
@@ -21,3 +21,4 @@
         function gfg_Run() {
             el_down.innerHTML = generateP();
         }
+
